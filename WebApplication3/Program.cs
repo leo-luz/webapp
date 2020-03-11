@@ -22,5 +22,6 @@ namespace WebApplication3
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+				// comment
     }
 }
